@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://willliam.dev/sitemap.xml

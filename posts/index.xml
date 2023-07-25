@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on WillliamDev</title>
+    <link>https://willliam.dev/posts/</link>
+    <description>Recent content in Posts on WillliamDev</description>
+    <image>
+      <title>WillliamDev</title>
+      <url>https://willliam.dev/cover.png</url>
+      <link>https://willliam.dev/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jul 2023 00:05:52 -0300</lastBuildDate><atom:link href="https://willliam.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Word</title>
+      <link>https://willliam.dev/posts/hello-word/</link>
+      <pubDate>Tue, 25 Jul 2023 00:05:52 -0300</pubDate>
+      
+      <guid>https://willliam.dev/posts/hello-word/</guid>
+      <description>hello world 👋</description>
+    </item>
+    
+  </channel>
+</rss>
